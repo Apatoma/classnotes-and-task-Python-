@@ -1,0 +1,6 @@
+¿Para qué sirve la instrucción “input”? --> para introducir un valor.
+¿Para qué sirve la instrucción “=”? --> para declarar que es igual.
+¿Para qué sirve la instrucción “print”? --> mostrar un output.
+¿Para qué sirve la instrucción “suma”? --> es una variable.
+¿Para qué sirve el operador “+”? --> para sumar dos valores o añadir.
+
