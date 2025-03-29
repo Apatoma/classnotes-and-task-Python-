@@ -52,3 +52,8 @@ la principal diferencia es que el ejercicio 4 es menos completo, no incluye la p
 
 ***¿Cuál de las dos opciones es mejor?¿Por qué?***
 Los bloques if-else del ejercicio 5 son mejores ya que tienen capacidad para otras posibilidades de numeros.
+
+
+
+***REGISTRO DE ERRORES**
+
