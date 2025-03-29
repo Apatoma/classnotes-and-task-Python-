@@ -58,12 +58,20 @@ Los bloques if-else del ejercicio 5 son mejores ya que tienen capacidad para otr
 Me dice que el nombre math de la libreria math no existe y que si se me ha olvidado importar la libreria.
 
 ***Escribe # a la izquierda de la instrucción discriminante=b**2 - 4*a*c***
-![alt text](image-1.png)
 No puede hacer el calculo del discriminante, como ha dejado de existir pero sigue incluido en otras lineas de codigo no es capaz de dar un output final.
 
 ***Quita str de la última instrucción.***
+Al quitar el uso de str() en la instrucción de impresión, intentas unir una cadena con un número sin previa conversion porque Python no permite unir directamente cadenas con números.
+
+
+***Cambia float por int.***
+Cuando cambias float por int en las conversiones de entrada, el programa solo acepta números enteros. Si introduces un número con decimales, no funcionara, produciendo un error.
 
 
 ***REGISTRO DE ERRORES**
 Debo tener cuidado con completar todos los parentesis.
 Debo tener el codigo alineado con las instrucciones, en el caso contrario, da error.
+
+
+
+***PERDON POR EL POCO USO DE TILDES, PROGRAMO EN EL TECLADO DE REINO UNIDO PORQUE ME RESULTA MAS FACIL Y AUN MAS CON UNA MANO***
