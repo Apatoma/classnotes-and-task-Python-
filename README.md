@@ -34,3 +34,21 @@ Da error porque no son números enteros.
 Que el resultado es entero o decimal.
 
 ***float*** --> Números flotantes (decimales)
+
+***¿Para qué sirve la instrucción “IF”?***
+La instrucción IF se utiliza para evaluar una condición. Si la condición es verdadera, se ejecuta el bloque de código que sigue. Esto permite que el programa tome decisiones y ejecute diferentes acciones según el resultado de la evaluación.
+
+***¿Para qué sirve la instrucción “ELSE”?***
+La instrucción ELSE se utiliza para ejecutar un bloque de código alternativo cuando la condición evaluada en el IF resulta ser falsa. Es decir, si la condición no se cumple, se ejecuta lo que esté dentro del ELSE.
+
+***¿Qué ocurre si los dos números que introduces son iguales? ¿Por qué?***
+Si ambos números son iguales, la condición if x > y no se cumple (ya que ninguno es mayor que el otro), por lo que se ejecutará el bloque del ELSE.
+
+***Ejemplo de situación en la que sea necesario comparar dos datos:***
+Un ejemplo práctico es en un sistema de calificaciones, donde se compara la nota obtenida por un estudiante con una nota de aprobación. Este ejemplo suele salir en muchos cursos de programacion como un ejercicio. 
+
+***¿Qué diferencia hay entre el bloque de instrucciones IF-ELSE del EJERCICIO 4 y el del EJERCICIO 5?***
+la principal diferencia es que el ejercicio 4 es menos completo, no incluye la posibilidad de que puedan ser iguales.
+
+***¿Cuál de las dos opciones es mejor?¿Por qué?***
+Los bloques if-else del ejercicio 5 son mejores ya que tienen capacidad para otras posibilidades de numeros.
