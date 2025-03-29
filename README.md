@@ -53,7 +53,17 @@ la principal diferencia es que el ejercicio 4 es menos completo, no incluye la p
 ***¿Cuál de las dos opciones es mejor?¿Por qué?***
 Los bloques if-else del ejercicio 5 son mejores ya que tienen capacidad para otras posibilidades de numeros.
 
+***Escribe # a la izquierda de la instrucción import math***
+![alt text](image.png)
+Me dice que el nombre math de la libreria math no existe y que si se me ha olvidado importar la libreria.
+
+***Escribe # a la izquierda de la instrucción discriminante=b**2 - 4*a*c***
+![alt text](image-1.png)
+No puede hacer el calculo del discriminante, como ha dejado de existir pero sigue incluido en otras lineas de codigo no es capaz de dar un output final.
+
+***Quita str de la última instrucción.***
 
 
 ***REGISTRO DE ERRORES**
-
+Debo tener cuidado con completar todos los parentesis.
+Debo tener el codigo alineado con las instrucciones, en el caso contrario, da error.
