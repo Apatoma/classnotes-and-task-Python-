@@ -9,7 +9,7 @@ candidatos[4] = input("Introduce el nombre del candidato 5: ")
 
 votos = np.zeros(5, dtype=int)
 
-votos[0] = int(input("Introduce el número de votos del candidato 1: "))
+votos[0] = int(input("Introduce el número de votos del candidato 1: "))  
 votos[1] = int(input("Introduce el número de votos del candidato 2: "))
 votos[2] = int(input("Introduce el número de votos del candidato 3: "))
 votos[3] = int(input("Introduce el número de votos del candidato 4: "))
