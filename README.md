@@ -71,6 +71,39 @@ Al quitar el uso de str() en la instrucción de impresión, intentas unir una ca
 ***Cambia float por int.***
 Cuando cambias float por int en las conversiones de entrada, el programa solo acepta números enteros. Si introduces un número con decimales, no funcionara, produciendo un error.
 
+***Apuntes Array***
+
+Aqui hay una lista de equipos de futbol:
+
+-Arsenal
+-Liverpool 
+-Barcelona 
+-Chelsea
+-Juventus
+
+Normalmente, los almacenariamos en diferentes variables:
+
+Equipo 1 = Arsenal
+Equipo 2 = Liverpool
+Equipo 3 = Barcelona
+Equipo 4 = Chelsea
+Equipo 5 = Juventus
+
+El problema es que esto no es del todo eficiente, por lo que usamos los array
+
+Los array son estructuras de datos que almacenan una coleccion de elementos del mismo tipo 
+
+Ejemplo:
+    declare Equipos: array[0:4] of strings (0,1,2,3,4) son 5 elementos.
+
+Equipos[0] = Arsenal
+Equipos[1] = Liverpool
+Equipos[2] = Barcelona 
+Equipos[3] = Chelsea
+Equipos[4] = Juventus
+
+
+
 
 ***REGISTRO DE ERRORES**
 Debo tener cuidado con completar todos los parentesis.
@@ -79,3 +112,5 @@ Debo tener el codigo alineado con las instrucciones, en el caso contrario, da er
 
 
 ***PERDON POR EL POCO USO DE TILDES, PROGRAMO EN EL TECLADO DE REINO UNIDO PORQUE ME RESULTA MAS FACIL Y AUN MAS CON UNA MANO***
+
+
