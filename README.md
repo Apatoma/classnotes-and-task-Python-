@@ -58,10 +58,6 @@ Los bloques if-else del ejercicio 5 son mejores ya que tienen capacidad para otr
 Me dice que el nombre math de la libreria math no existe y que si se me ha olvidado importar la libreria.
 
 ***Escribe # a la izquierda de la instrucción discriminante=b**2 - 4*a*c***
-<<<<<<< HEAD
-=======
-
->>>>>>> bc02dcf92eaa151cde8b757f53e91afbfa59765c
 No puede hacer el calculo del discriminante, como ha dejado de existir pero sigue incluido en otras lineas de codigo no es capaz de dar un output final.
 
 ***Quita str de la última instrucción.***
@@ -111,10 +107,7 @@ Debo tener el codigo alineado con las instrucciones, en el caso contrario, da er
 
 
 
-<<<<<<< HEAD
+
 ***PERDON POR EL POCO USO DE TILDES, PROGRAMO EN EL TECLADO DE REINO UNIDO PORQUE ME RESULTA MAS FACIL Y AUN MAS CON UNA MANO***
 
-
-=======
-***PERDON POR EL POCO USO DE TILDES, PROGRAMO EN EL TECLADO DE REINO UNIDO PORQUE ME RESULTA MAS FACIL Y AUN MAS CON UNA MANO.***
->>>>>>> 9a179ea269731855ff3235fe3e8d2b5e005b8ec2
+admito haber tenido la ayuda de autocompletado de copilot que ha agilizado mi codigo ademas de darme alguna idea.
