@@ -1,6 +1,5 @@
-# Calculadora de Índice de Masa Corporal (IMC)
-
-while True:
+peso = -1
+while peso!=0:
     print("Calculadora de IMC")
     peso = float(input("Introduce tu peso en kg (o 0 para salir): "))
     if peso == 0:
@@ -17,9 +16,9 @@ while True:
 
     if imc < 22 and edad < 45:
         print("Tu IMC es bajo para tu edad.")
-    if imc < 22 and edad >= 45:
+    elif imc < 22 and edad >= 45:
         print("Tu IMC es medio para tu edad.")
-    if imc >= 22 and edad < 45:
+    elif imc >= 22 and edad < 45:
         print("Tu IMC es medio para tu edad.")
     else:
         print("Tu IMC es alto para tu edad.")

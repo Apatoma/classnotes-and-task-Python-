@@ -99,12 +99,12 @@ Equipos[3] = Chelsea
 Equipos[4] = Juventus
 
 
-
+la instruccion f delante de un array en python indica que es una aray formateada, lo que permite incluir variables dentro de la array utilizando llaves {}. 
 
 ***REGISTRO DE ERRORES**
 Debo tener cuidado con completar todos los parentesis.
 Debo tener el codigo alineado con las instrucciones, en el caso contrario, da error.
-
+El break no es un metodo muy limpio, es mejor especificar la excepcion en el while.
 
 
 

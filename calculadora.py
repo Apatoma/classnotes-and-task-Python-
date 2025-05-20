@@ -1,9 +1,6 @@
-while True:
+tipo = -1
+while tipo!=0:
     tipo = int(input("Introduce 1 para sumar, 2 para restar, 3 para multiplicar, 4 para dividir, o 0 para salir: "))
-
-    if tipo == 0:
-        print("Saliendo del programa.")
-        break
 
     if tipo == 1:
         print("Suma")
@@ -37,4 +34,4 @@ while True:
         print("el resultado es:", resultado)
 
     else:
-        print("Tipo de operación no válida")
+        print("Saliendo...")

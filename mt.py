@@ -1,13 +1,12 @@
 # mt = media temperaturas
 #empieza el contador desde 0
-cuentatemp = 0
-sumatemp = 0
-
-while True:
+cuentatemp = -1
+sumatemp = -1
+temp = -1
+while temp != 'fin': 
     temp = input("Introduce la temperatura (o escribe 'fin' para terminar): ") 
-    if temp.lower() == 'fin': #tem.lower() convierte a minusculas el input, si es fin se termina el bucle y ya calcula la media.
-        break #se termina el bucle
-    else:
+
+    if temp != 'fin':  
         temp = float(temp)
         sumatemp += temp
         cuentatemp += 1 #suma la temperatura y cuenta las temperaturas introducidas
