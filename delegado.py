@@ -6,10 +6,9 @@ nombre = -1
 
 while nombre != "":
     nombre = input("Introduce el nombre del candidato o pulsa ENTER para terminar: ")
-    if nombre != "":  # solo anade si no esta vacío
+    if nombre != "":  
         candidatos.append(nombre)
 
-# Collect votes
 for candidato in candidatos:
     voto = int(input(f"Introduce el número de votos de {candidato}: "))
     votos.append(voto)
@@ -17,7 +16,6 @@ for candidato in candidatos:
 print("Los votos son:", votos)
 print("Los candidatos son:", candidatos)
 
-# Find the winner
 mayor_votos = 0
 ganador = ""
 
